@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import matplotlib.marker as marker
 
 # Create some data
 from sklearn.datasets import make_blobs
